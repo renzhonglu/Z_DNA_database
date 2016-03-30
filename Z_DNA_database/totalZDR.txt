@@ -1,0 +1,10 @@
+Species	TotalZDRs
+Human	337352
+Chimpanzee	317137
+Mouse	626724
+Rattus	690469
+Zebrafish	379044
+Fruitefly	34023
+Celegans	6823
+Saccerevisiae	498
+Arabidopsis	5105
